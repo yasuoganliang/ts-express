@@ -1,0 +1,24 @@
+{
+  "name": "ts-express",
+  "version": "1.0.0",
+  "description": "ts use express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"dev": "ts-node ./src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasuoganliang/ts-express.git"
+  },
+  "keywords": [
+    "typescript",
+    "express"
+  ],
+  "author": "yujinsheng",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/yasuoganliang/ts-express/issues"
+  },
+  "homepage": "https://github.com/yasuoganliang/ts-express#readme"
+}
